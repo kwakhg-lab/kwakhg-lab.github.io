@@ -37,7 +37,7 @@ We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SN
 
 ## Join our lab
 
-We are actively hiring research students/ assistants at various levels, postdocs\*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out.</a>.
+We are actively hiring research students/ assistants at various levels, postdocs\*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out.<!--</a>-->
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
