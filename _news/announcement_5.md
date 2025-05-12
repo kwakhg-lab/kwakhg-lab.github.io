@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at Workshop on AI for Maternal and Child Health.
+Presented at Workshop on AI for Maternal and Child Health
