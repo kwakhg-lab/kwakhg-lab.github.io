@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Emory Bias Datathon (School of Medicine) :sparkles: :smile:
+Emory Datathon (School of Medicine) :sparkles: :smile:

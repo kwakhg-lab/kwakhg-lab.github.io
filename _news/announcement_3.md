@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Multiple Distinguished Project Presentations: One of these is the multistate modeling for Social Determinants of Health (SDOH) in Neuro ICU, presented at the Neurocritical Care Society (NCS)
+Multiple Distinguished Project Presentations: One of these is the multistate modeling for contextual information in Neuro ICU, presented at the Neurocritical Care Society (NCS)

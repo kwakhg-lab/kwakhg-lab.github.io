@@ -4,11 +4,11 @@ I’m Dr. Gloria Hyunjung Kwak, an Assistant Professor at Emory University’s N
 
 ## My Mission
 
-My mission is to integrate AI ethically into healthcare, ensuring that technology serves all populations fairly. I’m passionate about creating AI-driven solutions that are not only innovative but also considerate of the social contexts affecting patient care.
+My mission is to integrate AI practically into healthcare, ensuring that technology serves all populations over all population. I’m passionate about creating AI-driven solutions that are not only innovative but also considerate of the contexts affecting patient care before hospitalization.
 
-## What I Care About
+<!--## What I Care About
 
-I care deeply about fairness in AI, particularly in how biases can affect clinical outcomes. My work aims to bridge gaps between technology and healthcare, promoting ethical standards that improve patient care globally.
+I care deeply about practicality in AI, particularly in how biases can affect clinical outcomes. My work aims to bridge gaps between technology and healthcare, promoting ethical standards that improve patient care globally.-->
 
 ## Fun Fact
 
