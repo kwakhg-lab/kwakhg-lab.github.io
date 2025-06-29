@@ -25,13 +25,13 @@ social: true # includes social icons at the bottom of the page
 
 ## About our lab
 
-Led by Dr. Hyunjung Gloria Kwak, our group is dedicated to advancing equitable AI solutions for inclusive healthcare. We focus on harnessing machine learning and AI to promote fairness and integrity in healthcare. Our key goals are:
+Led by Dr. Hyunjung Gloria Kwak, our group is dedicated to advancing practical AI solutions for inclusive healthcare. We focus on harnessing machine learning and AI to promote practicality in healthcare. Our key goals are:
 
 - **Clinical Impact**: Develop practical algorithms that address real clinical challenges.
 - **Machine Learning**: Ensure rigorous, safe AI solutions for high-stakes environments like healthcare.
-- **Fairness**: Design solutions that are equitable for all patients, not just a select few.
+- **Practicality**: Design solutions that are practical for all patients, not just a select few.
 
-We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SNUH, and global health initiatives, as well as industry partners. We aim to bridge technology and healthcare with integrity and inclusivity.
+We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SNUH, and global health initiatives, as well as industry partners. We aim to bridge technology and healthcare. <!--with integrity and inclusivity.-->
 
 <br><br>
 
