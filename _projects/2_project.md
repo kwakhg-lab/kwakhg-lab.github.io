@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Management of Stroke and Shock
-description: Studying patients on treatments to better understand demographic impacts and clinical outcomes, aiming to refine critical care strategies.
+description: Evaluating how clinical AI conclusions for stroke and septic shock patients vary across demographic subgroups and treatment protocols, with focus on representational instability in critical care decision support.
 img: #assets/img/3.jpg
 importance: 1 #2
 category: work

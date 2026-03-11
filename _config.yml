@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AI in Healthcare (Hestia) # Hestia (Health, Equity, Science, Technology, Innovation, AI) EEquitable AI in Healthcare (EQUAIH) the website title (if blank, full name will be used instead)
+title: Kwak Lab # the website title (if blank, full name will be used instead)
 first_name: Hyunjung
 middle_name: Gloria
 last_name: Kwak
@@ -17,7 +17,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ucabhkw.github.io #  the base hostname & protocol for your site
+url: https://ucabhkw.github.io #  the base hostname & protocol for your site eq-ai-health.org
 baseurl: # /ucabhkw the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR

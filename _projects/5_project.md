@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Predicting Outcomes in Intensive Care
-description: Using AI to forecast clinical outcomes and treatment responses in patients with conditions, enhancing personalized care strategies.
+description: Developing and evaluating AI models for ICU outcome prediction (vasopressor need, intubation, hyperkalemia), with emphasis on measuring when predictions break across patient subgroups and clinical contexts.
 img: #assets/img/1.jpg
 importance: 3
 category: work

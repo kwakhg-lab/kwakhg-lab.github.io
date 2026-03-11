@@ -23,21 +23,32 @@ social: true # includes social icons at the bottom of the page
 
 <br><br>
 
-## About our lab
+## About Kwak Lab
 
-Led by Dr. Hyunjung Gloria Kwak, our group is dedicated to advancing practical AI solutions for inclusive healthcare. We focus on harnessing machine learning and AI to promote practicality in healthcare. Our key goals are:
+We develop evaluation methods for clinical AI robustness — asking not whether a model works, but **for whom it breaks and why**. Clinical AI decisions are only as trustworthy as the patient-state representations that generate them, and our research measures when those representations become unstable.
 
-- **Clinical Impact**: Develop practical algorithms that address real clinical challenges.
-- **Machine Learning**: Ensure rigorous, safe AI solutions for high-stakes environments like healthcare.
-- **Practicality**: Design solutions that are practical for all patients, not just a select few.
+Our work spans three axes of instability:
 
-We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SNUH, and global health initiatives, as well as industry partners. We aim to bridge technology and healthcare. <!--with integrity and inclusivity.-->
+- **Cross-axis instability**: Fairness corrections along one demographic axis (e.g., race) can systematically degrade performance on others (e.g., age, insurance status).
+- **Representational instability**: Model-internal representations encode patient subgroups unevenly; debiasing interventions may redistribute this unevenness rather than eliminate it.
+- **Definitional instability**: Operational definitions of clinical outcomes shift ground truth itself, independently of model behavior.
+
+We also investigate how social determinants of health interact with these instabilities in critical care settings.
+
+We collaborate with researchers at MIT, Harvard, HKUST, UCL, SNUH, and Emory School of Medicine.
 
 <br><br>
 
 ## Join our lab
 
-We are actively hiring research students/ assistants at various levels, postdocs\*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out.<!--</a>-->
+We are a multi-institutional group spanning Emory, Georgia Tech, Stony Brook, University of Michigan, and Yonsei University. Our lab members include postdocs, graduate students (PhD and Master's), and undergraduate research assistants.
+
+We are looking for students and collaborators interested in:
+- Evaluating clinical AI robustness across patient populations
+- Representation learning and fairness in healthcare ML
+- Clinical data science (ICU, neurocritical care, cardiology)
+
+If you are interested, please email Dr. Kwak with your CV and a brief description of your research interests.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

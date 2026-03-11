@@ -9,9 +9,7 @@ display_categories: work #[work, fun]
 horizontal: false
 ---
 
-<!--(Health, Equity, Science, Technology, Innovation, AI) <b>Equ</b>itable <b>AI</b> in <b>H</b>ealthcare (<b>EQUAIH</b>)->
-
-The AI in Healthcare (<b>HESTIA</b>) Lab is dedicated to advancing equitable AI in healthcare, tackling algorithmic bias, and addressing social determinants of health to improve patient care. Our research spans clinical decision support, healthcare disparities, and the development of fair and inclusive AI models.
+The <b>Kwak Lab</b> develops evaluation methods for clinical AI robustness. We study when and why clinical AI conclusions become unstable — across patient populations, under fairness corrections, and through shifts in operational definitions.
 
 <!-- pages/projects.md -->
 <div class="projects">

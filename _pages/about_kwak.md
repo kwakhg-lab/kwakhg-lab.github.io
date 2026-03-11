@@ -1,14 +1,12 @@
 ## About Me
 
-I’m Dr. Gloria Hyunjung Kwak, an Assistant Professor at Emory University’s Nell Hodgson Woodruff School of Nursing/ Centre for Data Science/ Emory AI Health. With a Ph.D. in Computer Science and a strong background in AI, my research focuses on developing practical AI solutions. <!-- that address healthcare disparities and social determinants of health.>
+I am an Assistant Professor at Emory University’s Nell Hodgson Woodruff School of Nursing, Centre for Data Science, and Emory AI Health. My research develops evaluation methods for clinical AI robustness — asking not whether a model works, but for whom it breaks and why.
 
-## My Mission
+My path — a CS PhD (HKUST), a postdoc in neuro-ICU research (Harvard/MGH), and now a faculty position in a nursing school — gives me methodological independence to ask questions that sit between disciplines. I build tools to measure when clinical AI conclusions become unstable under representation and contextual shifts.
 
-My mission is to integrate AI practically into healthcare, ensuring that technology serves all populations over all population. I’m passionate about creating AI-driven solutions that are not only innovative but also considerate of the contexts affecting patient care before hospitalization.
+## Research Focus
 
-<!--## What I Care About
-
-I care deeply about practicality in AI, particularly in how biases can affect clinical outcomes. My work aims to bridge gaps between technology and healthcare, promoting ethical standards that improve patient care globally.-->
+I study the gap between what clinical AI models promise in aggregate and how they actually perform across patient subgroups, outcome definitions, and fairness interventions. This includes understanding how social determinants of health interact with model behavior in critical care.
 
 ## Fun Fact
 

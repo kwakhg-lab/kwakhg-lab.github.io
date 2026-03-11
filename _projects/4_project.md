@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accuracy in Medical Interventions and Devices
-description: Investigating performance differences in medical devices and interventions to promote performance over all population, more effective healthcare technologies.
+description: Investigating how medical device and intervention performance varies across patient populations, measuring where operational definitions of accuracy become unstable and for whom these technologies underperform.
 img:
 importance: 2 #3
 category: work
