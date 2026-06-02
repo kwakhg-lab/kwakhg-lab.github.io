@@ -31,7 +31,7 @@ Our work spans three axes of instability:
 
 - **Cross-axis instability**: Fairness corrections along one demographic axis (e.g., race) can systematically degrade performance on others (e.g., age, insurance status).
 - **Representational instability**: Model-internal representations encode patient subgroups unevenly; debiasing interventions may redistribute this unevenness rather than eliminate it.
-- **Definitional instability**: Operational definitions of clinical outcomes shift ground truth itself, independently of model behavior.
+- **HHHDefinitional instability**: Operational definitions of clinical outcomes shift ground truth itself, independently of model behavior.
 
 We also investigate how social determinants of health interact with these instabilities in critical care settings.
 
