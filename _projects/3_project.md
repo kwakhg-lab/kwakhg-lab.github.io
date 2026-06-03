@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Open-Access Clinical Reports and Databases
-description: Building open-access databases (e.g., EchoNotes/ECHO-NOTE2NUM) that combine ICU clinical reports with contextual data, enabling reproducible evaluation of clinical AI robustness and representation stability.
-img: #assets/img/7.jpg
-#redirect: https://unsplash.com
-importance: 1 #3
-category: work
+title: Fairness and Representation Instability in Physiological Signals
+description: Measuring when bias mitigation and fine-tuning themselves introduce new instability, including cross-axis fairness trade-offs and context-dependent subgroup hierarchies in PPG-based prediction, where one correction can help one population and harm another.
+img:
+importance: 1
+category: Representation & Fairness
 ---

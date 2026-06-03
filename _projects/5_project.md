@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Predicting Outcomes in Intensive Care
-description: Developing and evaluating AI models for ICU outcome prediction (vasopressor need, intubation, hyperkalemia), with emphasis on measuring when predictions break across patient subgroups and clinical contexts.
-img: #assets/img/1.jpg
-importance: 3
-category: work
+title: Clinical Alarms and Nursing-State Actionability
+description: Treating nursing response as a state generator rather than a perspective, and quantifying how alarm actionability labels (real, near-false, false) shift when the operational definition changes, such as response window, documentation signals, or unit workflow, exposing instability in the ground truth itself.
+img:
+importance: 1
+category: Clinical Domains
 ---

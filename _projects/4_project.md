@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Accuracy in Medical Interventions and Devices
-description: Investigating how medical device and intervention performance varies across patient populations, measuring where operational definitions of accuracy become unstable and for whom these technologies underperform.
+title: Non-Clinical Factors and Clinical AI
+description: Investigating how pre-admission and contextual factors, including social determinants and demographics, interact with clinical AI predictions, and measuring cross-axis instability when models trained on clinical data meet non-clinical variation.
 img:
-importance: 2 #3
-category: work
+importance: 2
+category: Representation & Fairness
 ---
