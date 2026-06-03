@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 description: Kwak Lab members
-nav: true
+nav: false
 nav_order: 7
 
 
