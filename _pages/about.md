@@ -25,12 +25,11 @@ social: true # includes social icons at the bottom of the page
 
 We develop evaluation methods for clinical AI robustness — asking not whether a model works, but **for whom it breaks, and why**. Clinical AI decisions are only as trustworthy as the patient-state representations that generate them, and our research measures when and for whom those conclusions become unstable under representation and contextual shifts.
 
-Measurement is our starting point, not our endpoint. We use what evaluation reveals to build toward fairer, more reliable models — fairness-aware methods designed to hold up under the very shifts our evaluations expose.
+Our work develops across three stages:
 
-The instability we study takes several forms, for example:
-
-- **Cross-axis instability**: a fairness correction along one demographic axis (e.g., race) can systematically degrade performance on another (e.g., gender, insurance status).
-- **Representational instability**: model-internal representations encode patient subgroups unevenly, and debiasing may redistribute that unevenness rather than remove it.
+- **Surface**: We show how model conclusions depend on choices that are easy to overlook, such as which data are included, when observations are taken, and how cohorts are sampled. The same clinical question can yield different answers depending on these decisions.
+- **Measure**: We quantify that instability systematically, asking when and for whom conclusions break and whether the fairness corrections meant to address it actually hold up across axes and metrics.
+- **Build**: Building on what these evaluations reveal, we are now working toward fairness-aware methods designed to remain stable under the very shifts our evaluations expose. Measurement is our starting point, not our endpoint.
 
 We also investigate how social determinants of health interact with these instabilities in critical care settings.
 
