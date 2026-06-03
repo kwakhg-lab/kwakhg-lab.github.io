@@ -25,27 +25,28 @@ social: true # includes social icons at the bottom of the page
 
 ## About Kwak Lab
 
-We develop evaluation methods for clinical AI robustness — asking not whether a model works, but **for whom it breaks and why**. Clinical AI decisions are only as trustworthy as the patient-state representations that generate them, and our research measures when those representations become unstable.
+We develop evaluation methods for clinical AI robustness — asking not whether a model works, but **for whom it breaks, and why**. Clinical AI decisions are only as trustworthy as the patient-state representations that generate them, and our research measures when and for whom those conclusions become unstable under representation and contextual shifts.
 
-Our work spans three axes of instability:
+Measurement is our starting point, not our endpoint. We use what evaluation reveals to build toward fairer, more reliable models — fairness-aware methods designed to hold up under the very shifts our evaluations expose.
 
-- **Cross-axis instability**: Fairness corrections along one demographic axis (e.g., race) can systematically degrade performance on others (e.g., age, insurance status).
-- **Representational instability**: Model-internal representations encode patient subgroups unevenly; debiasing interventions may redistribute this unevenness rather than eliminate it.
-- **HHHDefinitional instability**: Operational definitions of clinical outcomes shift ground truth itself, independently of model behavior.
+The instability we study takes several forms, for example:
+
+- **Cross-axis instability**: a fairness correction along one demographic axis (e.g., race) can systematically degrade performance on another (e.g., gender, insurance status).
+- **Representational instability**: model-internal representations encode patient subgroups unevenly, and debiasing may redistribute that unevenness rather than remove it.
 
 We also investigate how social determinants of health interact with these instabilities in critical care settings.
 
-We collaborate with researchers at MIT, Harvard, HKUST, UCL, SNUH, and Emory School of Medicine.
+We collaborate with researchers at MIT, Harvard, HKUST, UCL, SNUH, and Emory.
 
 <br><br>
 
 ## Join our lab
 
-We are a multi-institutional group spanning Emory, Georgia Tech, Stony Brook, University of Michigan, and Yonsei University. Our lab members include postdocs, graduate students (PhD and Master's), and undergraduate research assistants.
+Our lab brings together postdocs, graduate students (PhD and Master's), and undergraduate research assistants across a multi-institutional collaboration.
 
 We are looking for students and collaborators interested in:
 - Evaluating clinical AI robustness across patient populations
-- Representation learning and fairness in healthcare ML
+- Fairness-aware representation learning in healthcare ML
 - Clinical data science (ICU, neurocritical care, cardiology)
 
 If you are interested, please email Dr. Kwak with your CV and a brief description of your research interests.
