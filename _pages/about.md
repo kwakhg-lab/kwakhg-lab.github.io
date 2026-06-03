@@ -9,11 +9,9 @@ profile:
   image: Gloria_Kwak_Emory.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 267</p>
     <p>Center for Data Science</p>
     <p>Nell Hodgson Woodruff School of Nursing</p>
     <p>Emory University</p>
-    <p>1520 Clifton Rd N E</p>
     <p>Atlanta, GA 30322</p>
 
 news: true # includes a list of news items
