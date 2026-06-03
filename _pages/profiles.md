@@ -19,15 +19,6 @@ profile:
       <p>Center for Data Science</p>
       <p>Nell Hodgson Woodruff School of Nursing</p>
       <p>Emory University</p>
-  - align: left
-    image: Gloria_Kwak_Emory.png
-    content: about_kwak.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-
-      <p>Center for Data Science</p>
-      <p>Nell Hodgson Woodruff School of Nursing</p>
-      <p>Emory University</p>
 ---
 
 <!-- profiles:
